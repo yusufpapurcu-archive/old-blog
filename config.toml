@@ -1,0 +1,26 @@
+baseURL = "https://yusufpapurcu.com/"
+languageCode = "en-US"
+title = "yusufpapurcu's Blog"
+theme = "github-style"
+googleAnalytics = "G-MDZXNBDL2V"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "yusufpapurcu"
+  description = "🫖 418 I'm a teapot"
+  github = "yusufpapurcu"
+  twitter = "yusufpapurcu_"
+  linkedin = "yusufpapurcu"
+  instagram = "yusufpapurcu"
+  email = "yusufturhanp@gmail.com"
+  url = "https://yusufpapurcu.com"
+  keywords = ""
+  rss = true
+  lastmod = true
+  favicon = "/images/github.png"
+  location = "Turkey"
+  avatar = "images/avatar.jpg"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
