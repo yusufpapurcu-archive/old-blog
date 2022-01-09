@@ -20,7 +20,7 @@ pygmentsUseClasses = true
   lastmod = true
   favicon = "/images/github.png"
   location = "Turkey"
-  avatar = "/blog/images/avatar.jpg"
+  avatar = "/images/avatar.jpg"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
