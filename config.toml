@@ -2,7 +2,6 @@ baseURL = "https://www.yusufpapurcu.com/"
 languageCode = "en-US"
 title = "yusufpapurcu's Blog"
 theme = "github-style"
-googleAnalytics = "G-MDZXNBDL2V"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
