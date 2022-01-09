@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.yusufpapurcu.com/"
 languageCode = "en-US"
 title = "yusufpapurcu's Blog"
 theme = "github-style"
@@ -20,7 +20,7 @@ pygmentsUseClasses = true
   lastmod = true
   favicon = "/images/github.png"
   location = "Turkey"
-  avatar = "images/avatar.jpg"
+  avatar = "/blog/images/avatar.jpg"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
