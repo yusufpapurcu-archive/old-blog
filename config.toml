@@ -63,8 +63,8 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
     twitter = "yusufpapurcu_"
 [[menu.sidebar]]
   name = "yusufpapurcu's Twitter"
-  url = "https://alaninkenya.org"
+  url = "https://twitter.com/yusufpapurcu_"
 
 [[menu.sidebar]]
   name = "yusufpapurcu's GitHub"
-  url = "https://mjanja.ch"
+  url = "https://github.com/yusufpapurcu"
