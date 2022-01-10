@@ -1,9 +1,7 @@
 +++
-title = "Who is yusufpapurcu?"
-date = 2022-01-09T12:08:21+03:00
 author = "yusufpapurcu"
 keywords = ["blog", "about_me", "life", "general"]
-summary = "Who is Yusuf Turhan Papurcu?"
+sharingicons=false
 +++
 
 ## Hello Everybody 👋
