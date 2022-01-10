@@ -6,7 +6,7 @@ author = "yusufpapurcu"
 summary = "I played CARRION some and here my ideas about it."
 categories = ["games"]
 tags = []
-draft = true
+draft = false
 +++
 I found [CARRION]() in Nintendo Switch commercials. After that I searched about a bit and bought from steam. It was an interesting game while searching but after playing it I can say that was so good.
 
