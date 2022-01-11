@@ -4,6 +4,7 @@ title = "Yusuf Papurcu's Blog"
 theme = "hugo-theme-bootstrap4-blog"
 enableGitInfo = true
 enableRobotsTXT = true
+googleAnalytics="UA-216600270-1"
 paginate = 3
 copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
 
