@@ -29,10 +29,10 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
   #google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
 
   # verification string for Bing Webmaster Tools
-  #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
+  bing_verify_meta = "0484DDA4FD656151F01FCDC24AAB2446"
 
   # verification string for Yandex Webmaster Tools
-  #yandex_verify_meta = "66b077430f35f04a"
+  yandex_verify_meta = "97a35cdb1ef7ff00"
 
   # Optionally display a message about the site's use of cookies, which may be
   # required for your site in the European Union. Set the parameter below to a
