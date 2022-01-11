@@ -1,5 +1,5 @@
 +++
-title= "Book_BSnPixels"
+title= "\"Blood, Sweat and Pixels\" Book Review"
 date= 2022-01-11T17:27:40+03:00
 author = "yusufpapurcu"
 #images = ["/2016/10/image.jpg"]
