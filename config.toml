@@ -8,7 +8,7 @@ canonifyURLs = true
 googleAnalytics="UA-216600270-1"
 paginate = 3
 copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
-
+description = ""
 [permalinks]
   posts = "/:year/:month/:slug/"
   page = "/:slug/"
@@ -17,7 +17,7 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
   author = "Yusuf Turhan Papurcu"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = ""
+  description = "Yusuf Papurcu's Blog. You can find my mind printed as words and posts in here. Caution a lot of Books, Gaming, Travel and Programming content!"
 
   # Show header (default: true)
   header_visible = true
