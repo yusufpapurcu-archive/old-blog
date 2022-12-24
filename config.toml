@@ -1,4 +1,4 @@
-baseURL = "https://www.yusufpapurcu.com/"
+baseURL = "https://blog.yusufpapurcu.com/"
 languageCode = "en-US"
 title = "Yusuf Papurcu's Blog"
 theme = "hugo-theme-bootstrap4-blog"
